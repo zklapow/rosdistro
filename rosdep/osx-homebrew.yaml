@@ -163,6 +163,10 @@ libqt4-opengl-dev:
   osx:
     homebrew:
       packages: [ qt ]
+libqtgui4:
+  osx:
+    homebrew:
+      packages: [ qt ]
 libqglviewer-qt4-dev:
   osx:
     homebrew:
