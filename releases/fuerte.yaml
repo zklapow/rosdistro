@@ -116,7 +116,7 @@ repositories:
     url: git://github.com/wg-debs/random_numbers-release.git
     version: 0.1.1
   ros:
-    url: git://github.com/wg-debs/ros-release.git
+    url: git://github.com/zklapow/ros-release.git
     version: 1.8.10
   ros_comm:
     url: git://github.com/wg-debs/ros_comm-release.git
